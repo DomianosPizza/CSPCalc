@@ -8,23 +8,23 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\DLagunas\\.nuget\\packages\\": {},
+    "C:\\Users\\capta\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DLagunas\\Documents\\Year 2\\Winter 2023\\AppDev\\myWPFCalc\\myWPFCalc\\myWPFCalc.csproj",
+      "projectUniqueName": "C:\\Users\\capta\\Source\\Repos\\DomianosPizza\\CSPCalc\\myWPFCalc\\myWPFCalc.csproj",
       "projectName": "myWPFCalc",
-      "projectPath": "C:\\Users\\DLagunas\\Documents\\Year 2\\Winter 2023\\AppDev\\myWPFCalc\\myWPFCalc\\myWPFCalc.csproj",
-      "packagesPath": "C:\\Users\\DLagunas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DLagunas\\Documents\\Year 2\\Winter 2023\\AppDev\\myWPFCalc\\myWPFCalc\\obj\\",
+      "projectPath": "C:\\Users\\capta\\Source\\Repos\\DomianosPizza\\CSPCalc\\myWPFCalc\\myWPFCalc.csproj",
+      "packagesPath": "C:\\Users\\capta\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\capta\\Source\\Repos\\DomianosPizza\\CSPCalc\\myWPFCalc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\DLagunas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\capta\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -70,7 +70,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

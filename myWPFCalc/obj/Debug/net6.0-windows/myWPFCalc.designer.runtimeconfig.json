@@ -12,8 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\DLagunas\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\DLagunas\\.nuget\\packages",
+      "C:\\Users\\capta\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\capta\\.nuget\\packages",
       "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
     ],
     "configProperties": {
