@@ -14,7 +14,7 @@
             <ColumnDefinition Width="*"/>
         </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
-            <RowDefinition Height="100"/>
+            <RowDefinition Height="50"/>
             <RowDefinition Height="100"/>
             <RowDefinition Height="*"/>
             <RowDefinition Height="*"/>
@@ -49,5 +49,6 @@
         <Button Margin="5" DockPanel.Dock="Bottom" Grid.Column="3" Grid.Row="6">=</Button>
 
         <Label Margin="5" DockPanel.Dock ="Bottom" Grid.ColumnSpan="4" Grid.Column="0" Grid.Row="1" HorizontalContentAlignment="Right"/>
+        <Label Margin="5" DockPanel.Dock ="Bottom" Grid.ColumnSpan="4" Grid.Column="0" Grid.Row="0" HorizontalContentAlignment="Right" VerticalContentAlignment="Bottom" Foreground="Gray">Im a gamer</Label>
     </Grid>
 </Window>
