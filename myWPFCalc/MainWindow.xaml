@@ -23,32 +23,35 @@
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
 
-        <Button Margin="5" DockPanel.Dock="Bottom" Grid.Column="0" Grid.Row="2">C</Button>
-        <Button Margin="5" DockPanel.Dock="Bottom" Grid.Column="1" Grid.Row="2">( )</Button>
-        <Button Margin="5" DockPanel.Dock="Bottom" Grid.Column="2" Grid.Row="2">%</Button>
-        <Button Margin="5" DockPanel.Dock="Bottom" Grid.Column="3" Grid.Row="2">/</Button>
-
-        <Button Margin="5" DockPanel.Dock="Bottom" Grid.Column="0" Grid.Row="3">7</Button>
-        <Button Margin="5" DockPanel.Dock="Bottom" Grid.Column="1" Grid.Row="3">8</Button>
-        <Button Margin="5" DockPanel.Dock="Bottom" Grid.Column="2" Grid.Row="3">9</Button>
-        <Button Margin="5" DockPanel.Dock="Bottom" Grid.Column="3" Grid.Row="3">X</Button>
-
-        <Button Margin="5" DockPanel.Dock="Bottom" Grid.Column="0" Grid.Row="4">4</Button>
-        <Button Margin="5" DockPanel.Dock="Bottom" Grid.Column="1" Grid.Row="4">5</Button>
-        <Button Margin="5" DockPanel.Dock="Bottom" Grid.Column="2" Grid.Row="4">6</Button>
-        <Button Margin="5" DockPanel.Dock="Bottom" Grid.Column="3" Grid.Row="4">+</Button>
-
-        <Button Margin="5" DockPanel.Dock="Bottom" Grid.Column="0" Grid.Row="5">1</Button>
-        <Button Margin="5" DockPanel.Dock="Bottom" Grid.Column="1" Grid.Row="5">2</Button>
-        <Button Margin="5" DockPanel.Dock="Bottom" Grid.Column="2" Grid.Row="5">3</Button>
-        <Button Margin="5" DockPanel.Dock="Bottom" Grid.Column="3" Grid.Row="5">-</Button>
-
-        <Button Margin="5" DockPanel.Dock="Bottom" Grid.Column="0" Grid.Row="6">+/-</Button>
-        <Button Margin="5" DockPanel.Dock="Bottom" Grid.Column="1" Grid.Row="6">0</Button>
-        <Button Margin="5" DockPanel.Dock="Bottom" Grid.Column="2" Grid.Row="6">.</Button>
-        <Button Margin="5" DockPanel.Dock="Bottom" Grid.Column="3" Grid.Row="6">=</Button>
-
-        <Label Margin="5" DockPanel.Dock ="Bottom" Grid.ColumnSpan="4" Grid.Column="0" Grid.Row="1" HorizontalContentAlignment="Right"/>
-        <Label Margin="5" DockPanel.Dock ="Bottom" Grid.ColumnSpan="4" Grid.Column="0" Grid.Row="0" HorizontalContentAlignment="Right" VerticalContentAlignment="Bottom" Foreground="Gray">Im a gamer</Label>
+        
+        <!--Top Row-->
+        <Button Margin="5" DockPanel.Dock="Bottom" Grid.Column="0" Grid.Row="2" Name="btnClear" Click="btnClear_Click">C</Button>
+        <Button Margin="5" DockPanel.Dock="Bottom" Grid.Column="1" Grid.Row="2" Name="btnSqr" Click="btnSquare">²</Button>
+        <Button Margin="5" DockPanel.Dock="Bottom" Grid.Column="2" Grid.Row="2" Name="btnPercent">%</Button>
+        <Button Margin="5" DockPanel.Dock="Bottom" Grid.Column="3" Grid.Row="2" Name="btnDivide" Click="btnEquation">/</Button>
+        <!--Row 2-->
+        <Button Margin="5" DockPanel.Dock="Bottom" Grid.Column="0" Grid.Row="3" Name="btnSeven" Click ="btnNumClick">7</Button>
+        <Button Margin="5" DockPanel.Dock="Bottom" Grid.Column="1" Grid.Row="3" Name="btnEight" Click ="btnNumClick">8</Button>
+        <Button Margin="5" DockPanel.Dock="Bottom" Grid.Column="2" Grid.Row="3" Name="btnNine" Click ="btnNumClick">9</Button>
+        <Button Margin="5" DockPanel.Dock="Bottom" Grid.Column="3" Grid.Row="3" Name="btnMult" Click="btnEquation">*</Button>
+        <!--Row 3-->
+        <Button Margin="5" DockPanel.Dock="Bottom" Grid.Column="0" Grid.Row="4" Name="btnFour" Click ="btnNumClick">4</Button>
+        <Button Margin="5" DockPanel.Dock="Bottom" Grid.Column="1" Grid.Row="4" Name="btnFive" Click ="btnNumClick">5</Button>
+        <Button Margin="5" DockPanel.Dock="Bottom" Grid.Column="2" Grid.Row="4" Name="btnSix" Click ="btnNumClick">6</Button>
+        <Button Margin="5" DockPanel.Dock="Bottom" Grid.Column="3" Grid.Row="4" Name="btnAdd" Click="btnEquation">+</Button>
+        <!--Row 4-->
+        <Button Margin="5" DockPanel.Dock="Bottom" Grid.Column="0" Grid.Row="5" Name="btnOne" Click ="btnNumClick">1</Button>
+        <Button Margin="5" DockPanel.Dock="Bottom" Grid.Column="1" Grid.Row="5" Name="btnTwo" Click ="btnNumClick">2</Button>
+        <Button Margin="5" DockPanel.Dock="Bottom" Grid.Column="2" Grid.Row="5" Name="btnThree" Click ="btnNumClick">3</Button>
+        <Button Margin="5" DockPanel.Dock="Bottom" Grid.Column="3" Grid.Row="5" Name="btnSubtract" Click="btnEquation">-</Button>
+        <!--Row 5-->
+        <Button Margin="5" DockPanel.Dock="Bottom" Grid.Column="0" Grid.Row="6" Name="btnSignChange">+/-</Button>
+        <Button Margin="5" DockPanel.Dock="Bottom" Grid.Column="1" Grid.Row="6" Name="btnZero" Click ="btnNumClick">0</Button>
+        <Button Margin="5" DockPanel.Dock="Bottom" Grid.Column="2" Grid.Row="6" Name="btnDeci" Click="btnDecimal">.</Button>
+        <Button Margin="5" DockPanel.Dock="Bottom" Grid.Column="3" Grid.Row="6" Name="btnEquals" Click="btnEqualsClick">=</Button>
+        
+        <!--Labels for My Text inputs-->
+        <Label Margin="5" DockPanel.Dock ="Bottom" Grid.ColumnSpan="4" Grid.Column="0" Grid.Row="1" HorizontalContentAlignment="Right" Name="lblInputOutput" FontSize="20"/>
+       
     </Grid>
 </Window>

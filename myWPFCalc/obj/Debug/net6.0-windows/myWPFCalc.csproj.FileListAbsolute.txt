@@ -19,3 +19,24 @@ C:\Users\DLagunas\Documents\Year 2\Winter 2023\AppDev\myWPFCalc\myWPFCalc\obj\De
 C:\Users\DLagunas\Documents\Year 2\Winter 2023\AppDev\myWPFCalc\myWPFCalc\obj\Debug\net6.0-windows\myWPFCalc.pdb
 C:\Users\DLagunas\Documents\Year 2\Winter 2023\AppDev\myWPFCalc\myWPFCalc\obj\Debug\net6.0-windows\myWPFCalc.genruntimeconfig.cache
 C:\Users\DLagunas\Documents\Year 2\Winter 2023\AppDev\myWPFCalc\myWPFCalc\obj\Debug\net6.0-windows\ref\myWPFCalc.dll
+C:\Users\capta\Source\Repos\DomianosPizza\CSPCalc\myWPFCalc\obj\Debug\net6.0-windows\myWPFCalc.csproj.AssemblyReference.cache
+C:\Users\capta\Source\Repos\DomianosPizza\CSPCalc\myWPFCalc\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\capta\Source\Repos\DomianosPizza\CSPCalc\myWPFCalc\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\capta\Source\Repos\DomianosPizza\CSPCalc\myWPFCalc\obj\Debug\net6.0-windows\myWPFCalc_MarkupCompile.cache
+C:\Users\capta\Source\Repos\DomianosPizza\CSPCalc\myWPFCalc\obj\Debug\net6.0-windows\myWPFCalc_MarkupCompile.lref
+C:\Users\capta\Source\Repos\DomianosPizza\CSPCalc\myWPFCalc\obj\Debug\net6.0-windows\myWPFCalc.dll
+C:\Users\capta\Source\Repos\DomianosPizza\CSPCalc\myWPFCalc\obj\Debug\net6.0-windows\refint\myWPFCalc.dll
+C:\Users\capta\Source\Repos\DomianosPizza\CSPCalc\myWPFCalc\obj\Debug\net6.0-windows\myWPFCalc.pdb
+C:\Users\capta\Source\Repos\DomianosPizza\CSPCalc\myWPFCalc\bin\Debug\net6.0-windows\myWPFCalc.exe
+C:\Users\capta\Source\Repos\DomianosPizza\CSPCalc\myWPFCalc\bin\Debug\net6.0-windows\myWPFCalc.deps.json
+C:\Users\capta\Source\Repos\DomianosPizza\CSPCalc\myWPFCalc\bin\Debug\net6.0-windows\myWPFCalc.runtimeconfig.json
+C:\Users\capta\Source\Repos\DomianosPizza\CSPCalc\myWPFCalc\bin\Debug\net6.0-windows\myWPFCalc.dll
+C:\Users\capta\Source\Repos\DomianosPizza\CSPCalc\myWPFCalc\bin\Debug\net6.0-windows\myWPFCalc.pdb
+C:\Users\capta\Source\Repos\DomianosPizza\CSPCalc\myWPFCalc\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\capta\Source\Repos\DomianosPizza\CSPCalc\myWPFCalc\obj\Debug\net6.0-windows\myWPFCalc.g.resources
+C:\Users\capta\Source\Repos\DomianosPizza\CSPCalc\myWPFCalc\obj\Debug\net6.0-windows\myWPFCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\capta\Source\Repos\DomianosPizza\CSPCalc\myWPFCalc\obj\Debug\net6.0-windows\myWPFCalc.AssemblyInfoInputs.cache
+C:\Users\capta\Source\Repos\DomianosPizza\CSPCalc\myWPFCalc\obj\Debug\net6.0-windows\myWPFCalc.AssemblyInfo.cs
+C:\Users\capta\Source\Repos\DomianosPizza\CSPCalc\myWPFCalc\obj\Debug\net6.0-windows\myWPFCalc.csproj.CoreCompileInputs.cache
+C:\Users\capta\Source\Repos\DomianosPizza\CSPCalc\myWPFCalc\obj\Debug\net6.0-windows\myWPFCalc.genruntimeconfig.cache
+C:\Users\capta\Source\Repos\DomianosPizza\CSPCalc\myWPFCalc\obj\Debug\net6.0-windows\ref\myWPFCalc.dll
